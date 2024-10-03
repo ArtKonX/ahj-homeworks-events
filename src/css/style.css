@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+.title-game {
+    text-align: center;
+    font-size: 3rem;
+    border-radius: 10px;
+    margin: 50px;
+    color: rgb(231, 231, 35);
+    background-color: rgb(80, 13, 13);
+}
