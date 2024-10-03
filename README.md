@@ -2,6 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/f8mlj2twwu9evj6w?svg=true)](https://ci.appveyor.com/project/ArtKonX/ahj-homeworks-events)
 
+[Ссылка на Github Pages](https://artkonx.github.io/ahj-homeworks-events/)
 
 Правила сдачи задания:
 
